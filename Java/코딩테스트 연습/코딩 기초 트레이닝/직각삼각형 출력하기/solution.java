@@ -7,5 +7,7 @@ public class solution {
         
         for (int i = 1; i <= n; i++)
             System.out.println("*".repeat(i));
+
+        sc.close(); 
     }
 }
